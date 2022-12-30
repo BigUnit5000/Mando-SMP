@@ -73,5 +73,5 @@ li a:hover, .dropdown:hover .dropbtn {
   height: 4em;
 
   transform: translate(-50%, -50%);
-  position: fixed;
+  position: static;
   }
